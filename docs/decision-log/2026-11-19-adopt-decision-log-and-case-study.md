@@ -1,0 +1,1 @@
+| 2026-11-19 | Process | Decisions are recorded in a dated decision log (one file per pending entry, folded on main) and told in a modular case study; both are repo-only | docs/DECISIONS.md → Running records |
